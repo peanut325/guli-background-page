@@ -1,4 +1,4 @@
-# 谷粒学院后台管理系统前端页面
+# 后台管理系统前端页面
 vueAdmin-template是基于vue-element-admin的一套后台管理系统基础模板（最少精简版），可作为模板进行二次开发。
 
 GitHub地址：https://github.com/PanJiaChen/vue-admin-template
